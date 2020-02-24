@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c308c589-7ede-48c3-b321-d2950318d8c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SW2nhLNpVIffcmtBtZC41s8uZv" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.List8">
+    <configuration name="List13" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="List13" />
+      <module name="Lista2_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="List8" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="List8" />
+      <module name="Lista2_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Para" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Para" />
+      <module name="Lista2_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Para1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Para1" />
+      <module name="Lista2_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Para2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Para2" />
+      <module name="Lista2_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.List8" />
+      <item itemvalue="Application.Para" />
+      <item itemvalue="Application.Para1" />
+      <item itemvalue="Application.Para2" />
+      <item itemvalue="Application.List13" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.List8" />
+        <item itemvalue="Application.Para1" />
+        <item itemvalue="Application.List13" />
+        <item itemvalue="Application.Para2" />
+        <item itemvalue="Application.Para" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c308c589-7ede-48c3-b321-d2950318d8c2" name="Default Changelist" comment="" />
+      <created>1571665199160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571665199160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lista2_1$minMaxArray.ic" NAME="minMaxArray Coverage Results" MODIFIED="1577981998894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
