@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1YGB4zrQd1rvljo24vEJ8AXlP4Y" />
+  <component name="RunManager">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Start" />
+      <module name="Kalaha" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
